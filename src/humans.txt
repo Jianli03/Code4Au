@@ -1,0 +1,21 @@
+
+
+/* TEAM */
+	Developer: James
+	Contact: jianli03@gmail.com
+
+
+	Site: http://houhougo.com
+	From: Mooroolbark, Victoria, Australia
+
+/* Thank */
+    www.creative-tim.com
+
+/* SITE */
+	Last update: 05/03/2017
+	Language:English
+	Doctype:HTML5
+	Standards: HTML5, CSS3
+	Core:  Html, CSS, javascript
+	Deployment: Git
+    IDE: Webstorm
